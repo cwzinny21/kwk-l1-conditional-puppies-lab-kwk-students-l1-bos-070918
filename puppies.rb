@@ -17,17 +17,17 @@ puts no_puppies(0)
 
 def less_puppies(puppies)
   if puppies < 3
-    puts  "Good job, Rachel!"
+      "Good job, Rachel!"
      elsif puppies == 3
-     puts "Slow down! No more puppies."
+      "Slow down! No more puppies."
     else 
-     puts  "Get back to your animal goals!"
+       "Get back to your animal goals!"
     end 
   end 
   
-  less_puppies(2)
-  less_puppies(3)
-  less_puppies(5)
+  puts less_puppies(2)
+puts  less_puppies(3)
+  puts less_puppies(5)
   
 
 
