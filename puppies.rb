@@ -61,7 +61,7 @@ def both_animals(puppies,cats)
 end
 
 puts both_animals(0,0)
-puts both_animala(0,5)
+puts both_animals(0,5)
 puts both_animals(1,0)
 puts both_animals(3,3)
 puts both_animals(5,5)
