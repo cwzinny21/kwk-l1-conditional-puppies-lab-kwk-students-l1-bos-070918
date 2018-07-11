@@ -54,11 +54,11 @@ some_puppies(10,18)
 
 def new_animal(puppies,cats)
   if puppies == 0 || cats == 0 
-    puts "Good job!"
+   "Good job!"
     elsif puppies >= 1 && cats >= 1 
-    puts "You should really slow back down!"
+    "You should really slow back down!"
    else 
-     puts "Get back to your animal goals!"
+   "Get back to your animal goals!"
   end
 end
 
