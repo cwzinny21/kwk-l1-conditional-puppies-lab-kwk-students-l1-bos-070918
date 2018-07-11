@@ -58,8 +58,8 @@ def new_animal(puppies,cats)
    "Good job!"
     elsif puppies >= 1 && cats >= 1 
     "You should really slow back down!"
-   else 
-   "Get back to your animal goals!"
+  # else 
+  # "Get back to your animal goals!"
   end
 end
 
