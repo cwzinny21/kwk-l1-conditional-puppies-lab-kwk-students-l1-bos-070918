@@ -63,7 +63,7 @@ def new_animal(puppies,cats)
 end
 
 puts new_animal(0,0)
-puts new animal(0,5)
+puts new_animal(0,5)
 puts new_animal(1,0)
 puts new_animal(3,3)
 
