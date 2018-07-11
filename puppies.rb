@@ -26,7 +26,7 @@ def less_puppies(puppies)
   end 
   
   puts less_puppies(2)
-puts  less_puppies(3)
+  puts less_puppies(3)
   puts less_puppies(5)
   
   
@@ -37,15 +37,15 @@ puts  less_puppies(3)
 
 def some_puppies(puppies,max)
   if puppies < (max/2)
-    puts "Good job, Rachel!"
+     "Good job, Rachel!"
   else
-    puts "Get back to your animal goals, Rachel!"
+     "Get back to your animal goals, Rachel!"
   end
 end
 
-some_puppies(2,6)
-some_puppies(7,6)
-some_puppies(10,18)
+puts some_puppies(2,6)
+puts some_puppies(7,6)
+puts some_puppies(10,18)
 
 
 
