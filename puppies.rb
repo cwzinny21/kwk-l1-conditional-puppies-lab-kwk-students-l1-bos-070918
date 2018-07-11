@@ -65,6 +65,6 @@ end
 puts new_animal(0,0)
 puts new animal(0,5)
 puts new_animal(1,0)
-new_animal(3,3)
+puts new_animal(3,3)
 
 
